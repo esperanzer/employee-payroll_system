@@ -19,13 +19,6 @@ A simple **PHP Employee Payroll Calculator** that calculates an employee's salar
 
 ## Example Output
 
-Employee Name: Margret Tembo
-Hours Worked: 40
-Hourly Rate: 15
-Basic Salary: 600
-Overtime Hours: 7.5
-Overtime Rate: 22
 
-Have Fun !!!
 Yours Truely
 Esperanza
